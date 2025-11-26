@@ -2,6 +2,8 @@
 
 MCP server kết nối đến phần mềm KiotViet thông qua API. Được xây dựng bằng FastMCP, **stateless** - không quản lý phiên của user.
 
+> 📖 [English Version](README_EN.md) | Tiếng Việt
+
 ## Mô tả
 
 `kiotviet-mcp` là một Model Context Protocol (MCP) server cho phép AI agents (như Culi) tương tác với KiotViet Public API một cách an toàn. Server này:
